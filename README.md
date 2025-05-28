@@ -29,7 +29,7 @@ Each folder contains:
 | `week2/`    | Databases (SQLite/PostgreSQL) + CRUD APIs        |
 | `week3/`    | Authentication, Authorization & Secure Backends |
 | `week4/`    | Testing, CI/CD with GitHub Actions, Docker       |
-| `week5/`    | System Design, Architecture, Capstone + Internship Integration |
+| `week5/`    | System Design, Architecture, Capstone |
 
 ---
 
