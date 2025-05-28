@@ -62,7 +62,6 @@ Each week’s folder contains a `LEARNING.md` file outlining:
 - Add GraphQL demo (Strawberry or gqlgen)
 - Use Redis for caching or background jobs
 - Create microservices using both Go and Python
-- Deploy full stack using Railway or Fly.io
 
 ---
 
