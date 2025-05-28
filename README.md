@@ -71,8 +71,8 @@ I'm actively learning and growing in backend engineering.
 Feel free to reach out or collaborate:
 
 📧 Email: yourname@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+💼 LinkedIn: [linkedin.com/in/kpriyadharshan](https://linkedin.com/in/kpriyadharshan)  
+🐙 GitHub: [github.com/Dharshan2004](https://github.com/Dharshan2004)
 
 ---
 
