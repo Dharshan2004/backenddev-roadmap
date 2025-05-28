@@ -57,15 +57,6 @@ Each week’s folder contains a `LEARNING.md` file outlining:
 
 ---
 
-## 📌 Highlights
-
-- ✅ Built and secured a complete FastAPI backend with JWT auth
-- ✅ Implemented full test coverage and CI/CD automation
-- ✅ Dockerized projects for reproducibility
-- ✅ Practiced scalable system architecture and integration into real-world work
-
----
-
 ## 🧩 Future Extensions
 
 - Add GraphQL demo (Strawberry or gqlgen)
