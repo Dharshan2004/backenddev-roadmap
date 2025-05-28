@@ -70,7 +70,7 @@ Each week’s folder contains a `LEARNING.md` file outlining:
 I'm actively learning and growing in backend engineering.  
 Feel free to reach out or collaborate:
 
-📧 Email: yourname@example.com  
+📧 Email: kpd2204@gmail.com 
 💼 LinkedIn: [linkedin.com/in/kpriyadharshan](https://linkedin.com/in/kpriyadharshan)  
 🐙 GitHub: [github.com/Dharshan2004](https://github.com/Dharshan2004)
 
