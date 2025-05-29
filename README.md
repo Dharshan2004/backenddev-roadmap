@@ -46,7 +46,7 @@ Each week’s folder contains a `LEARNING.md` file outlining:
 
 ## 🛠️ Tools & Concepts Covered
 
-- **Languages**: Python 3.11, Go 1.20+
+- **Languages**: Python 3.13, Go 1.20+
 - **Web Frameworks**: FastAPI (Python), Gin (Go)
 - **Databases**: SQLite, PostgreSQL
 - **Authentication**: OAuth2, JWT, bcrypt
