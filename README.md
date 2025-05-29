@@ -79,3 +79,4 @@ Feel free to reach out or collaborate:
 ## 📄 License
 
 This project is open-source under the MIT License. See [LICENSE](LICENSE) for details.
+
