@@ -8,7 +8,7 @@ import (
 
 // hello world handler
 func helloHandler(w http.ResponseWriter, r *http.Request) {
-	fmt.Printf("%s %s 200 OK\n", r.Method, r.URL.Path)
+	fmt.Printf("%s %s 200 OK\n", r.Method, r.URL.Path) // log the request method and path
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
 	json.NewEncoder(w).Encode(map[string]string{"message": "Hello, World!"})
