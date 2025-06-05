@@ -4,7 +4,6 @@ from sqlalchemy import Column, Integer, String, Boolean
 
 # Item Model
 class Item(BaseModel):
-    id: int
     task_name: str
     completed: bool = False
     deadline: str = None
