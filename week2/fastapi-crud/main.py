@@ -18,6 +18,12 @@ def get_items():
     items = db.query(TodoList).all()
     return {"items": items}
 
+@app.get("/items/{item_id}")
+def get_item(item_id: int):
+    db = SessionLocal()
+    item = db.query(TodoList).filter(TodoList.id == item_id).first()
+    return {"item": item}
+
 # Create a new item
 @app.post("/items")
 def create_item(item: Item):
@@ -38,6 +44,7 @@ def update_item(item_id: int, item: Item):
     item.deadline = item.deadline
     db.commit()
     return {"message": "Item updated successfully", "item": item}
+
 # Delete an item
 @app.delete("/items/{item_id}")
 def delete_item(item_id: int):
