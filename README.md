@@ -8,9 +8,6 @@ This repo tracks my structured learning journey, practical projects, and reflect
 
 ## 🗓️ Timeline
 
-**Start Date:** May 28, 2025  
-**Target Completion:** Early July 2025  
-**Duration:** ~5 weeks  
 **Primary Languages:** Go, Python  
 **Tools/Tech:** FastAPI, Gin, PostgreSQL/SQLite, Docker, GitHub Actions, JWT, CI/CD, Redis (optional)
 
