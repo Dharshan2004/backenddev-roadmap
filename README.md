@@ -8,7 +8,7 @@ This repo tracks my structured learning journey, practical projects, and reflect
 
 ## 🗓️ Timeline
 
-**Primary Languages:** Go, Python  
+**Primary Languages:** Python  
 **Tools/Tech:** FastAPI, Gin, PostgreSQL/SQLite, Docker, GitHub Actions, JWT, CI/CD, Redis (optional)
 
 ---
